@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @munyalaEliud
+- 👋 Hi, I’m @meaLuda
 - 👀 I’m interested in the fields of Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science while taking a break from my Electrical Eng. Diploma
 - 💞️ I’m looking to collaborate on projects of any kind dealing with data science
